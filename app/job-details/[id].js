@@ -2,11 +2,11 @@ import { Text, View, SafeAreaView, ScrollView, ActivityIndicator, RefreshControl
 import { Stack, useRouter, useSearchParams } from "expo-router";
 import { useCallback, useState } from "react";
 
-import { Company, JobAbout, JobFooter, JobTabs, ScreenHeaderBtn, Specifics } from "../../components";
+import { Company, JobAbout, JobExp, JobFooter, JobTabs, ScreenHeaderBtn, Specifics } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
 import useFetch from "../../hook/useFetch";
 
-const tabs = ["About", "Qualifications", "Responsibilities"];
+const tabs = ["About", "Qualifications", "Experience", "Responsibilities"];
 
 const JobDetails = () => {
   const params = useSearchParams();
@@ -36,6 +36,13 @@ const JobDetails = () => {
         return <JobAbout
           info={data[0].job_description ?? "No data provided"}
         />
+
+      case "Experience":
+        return <JobExp
+          info={data[0].job_required_experience.required_experience_in_months / 12 + " years" ?? "No data provided"}
+        />  
+
+
       case "Responsibilities":
          return <Specifics
           title='Responsibilities'
