@@ -15,7 +15,11 @@ npx create-react-native-app -t with-router
 - [Request for Comments](https://github.com/expo/router/discussions/1)
 
 
+
 https://www.youtube.com/watch?v=mJ3bGvy0WAY
 
-1:57:00
+2:11:00  para finalizar e deploy o app
+
+API
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
