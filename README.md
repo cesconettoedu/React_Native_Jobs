@@ -17,7 +17,5 @@ npx create-react-native-app -t with-router
 
 https://www.youtube.com/watch?v=mJ3bGvy0WAY
 
-1:07:56
+1:57:00
 
-https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
-problema em pegar os dados no PopularJobCard
