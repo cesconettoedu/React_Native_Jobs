@@ -6,7 +6,6 @@ import styles from './popularjobcard.style'
 const PopularJobCard = ({ item, selectedJob, handleCardPress }) => {
 
 //problema aquiuiiuui
-console.log(item.employer_name);
 
   return (
     <TouchableOpacity 

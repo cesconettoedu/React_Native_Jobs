@@ -19,4 +19,5 @@ https://www.youtube.com/watch?v=mJ3bGvy0WAY
 
 1:07:56
 
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
 problema em pegar os dados no PopularJobCard
