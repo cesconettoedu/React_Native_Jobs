@@ -1,10 +1,10 @@
 
 
-## App that does a job search using a GoogleSearch api
+# App that does a job search using a GoogleSearch api
 
 
 
-# Expo Router Example
+## Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
