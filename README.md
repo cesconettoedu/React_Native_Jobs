@@ -2,7 +2,10 @@
 
 # App that does a job search using a GoogleSearch api
 
-
+Needs to subscribe to: 
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel 
+\
+And get your own key.
 
 ## Expo Router Example
 
