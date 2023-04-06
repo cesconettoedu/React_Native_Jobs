@@ -24,9 +24,15 @@ npx create-react-native-app -t with-router
 
 <!-- 
 
+
+
+
 https://www.youtube.com/watch?v=mJ3bGvy0WAY
 
 2:11:00  para finalizar e deploy o app
+
+
+precisa fazer novo subscribe na API para pegar um Key nova
 
 API
 https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
